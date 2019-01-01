@@ -1,6 +1,11 @@
 # Machine-Learning-By-Andrew-NG
-Machine Learning by Stanford University Taught by Andrew NG. https://www.coursera.org/learn/machine-learning
+[Machine Learning](https://www.coursera.org/learn/machine-learning) by Stanford University Taught by Andrew NG.
 
+
+
+The Code done by using Octave.
+
+You may use either MATLAB or Octave (>= 3.8.0).
 
 The solutions of the execrcies of the Course.
 
