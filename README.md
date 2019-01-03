@@ -10,12 +10,19 @@ You may use either MATLAB or Octave (>= 3.8.0).
 The solutions of the execrcies of the Course.
 
 ## Exercise .1
-Linear Regression with one and Multi variable. 
+  - Linear Regression with one and Multi variable. 
 
-Computing the Cost function.
+  - Computing the Cost function.
 
-Gradient Descent.
+  - Gradient Descent.
 
-Feature Normalization.
+  - Feature Normalization.
 
-Visualisation.
+  - Visualisation.
+  
+## Exercise .2
+
+   - Compute the cost and Gradient for Logistic regression
+   - Apply Regularization for the Cost and the Graident for Logistic regression
+    
+  
