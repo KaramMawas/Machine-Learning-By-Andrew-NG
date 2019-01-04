@@ -24,5 +24,11 @@ The solutions of the execrcies of the Course.
 
    - Compute the cost and Gradient for Logistic regression
    - Apply Regularization for the Cost and the Graident for Logistic regression
+   
+## Excercise .3
+
+   - Neural Network
+   - Cost and Gradient for Neural Network
+   - Multi-class classifier using one-vs-all methods
     
   
