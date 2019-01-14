@@ -30,5 +30,38 @@ The solutions of the execrcies of the Course.
    - Neural Network
    - Cost and Gradient for Neural Network
    - Multi-class classifier using one-vs-all methods
-    
+   
+ ## Excercise .4
+
+   - Apply the backpropagation
+   - Add regularized term
+   
+ ## Excercise .5
+
+   - Regularized linear regression cost function
+   - Generates a learning curve
+   - Generates a cross validation curve
+   
+ ## Excercise .6
+
+   - Work with SVM
+   - Gaussian kernel for SVM
+   - Parameters to use for Dataset 3
+  
+ ## Excercise .7
+
+   - Work K-mean algorithm
+   - Perform principal component analysis
+   - Projects a data set into a lower dimensional space
+   - Recovers the original data from the projection
+   - Find closest centroids (used in K-means)
+   - Compute centroid means (used in K-means)
+   - Initialization for K-means centroids
+   
+  ## Excercise .8
+
+   - Work with Anomaly Detection and RecommenderSystems
+   - Estimate the parameters of a Gaussian distribution with a diagonal covariance matrix
+   - Find a threshold for anomaly detection
+   - Implement the cost function for collaborative filtering
   
